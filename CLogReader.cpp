@@ -1,7 +1,5 @@
-#include <stdio.h>
-#include <iostream>
 #include <fstream>
-#include <bits/stdc++.h> 
+
 using namespace std;
 
 #define MAX_FILTER_SIZE     50 //random number for max length mask

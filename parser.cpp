@@ -1,8 +1,5 @@
-#include <stdio.h>
 #include <iostream>
-#include <fstream>
-#include <string>
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> 
 #include "CLogReader.cpp"
 
 using namespace std;
